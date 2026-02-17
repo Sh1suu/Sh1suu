@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francis Benedict Gaviola</h1>
 <h3 align="center">A passionate IT student from Philippines</h3>
 
-- 🌱 I’m currently learning **Kotlin, Java, HTML, CSS, JS, Cisco**
+- 🌱 I’m currently learning **Kotlin, Java, HTML, CSS, JS, Networking**
 
 - 📫 How to reach me **gaviolabenedict@gmail.com**
 
